@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="17891" started-at="2017-05-07T01:48:28Z" finished-at="2017-05-07T01:48:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="17891" started-at="2017-05-07T01:48:28Z" finished-at="2017-05-07T01:48:46Z">
+      <class name="VerifyPriceDetailsDriver.VerifyPrice">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeSuite" is-config="true" duration-ms="4" started-at="2017-05-06T20:48:28Z" finished-at="2017-05-06T20:48:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeTest" is-config="true" duration-ms="2964" started-at="2017-05-06T20:48:28Z" finished-at="2017-05-06T20:48:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeClass" is-config="true" duration-ms="3503" started-at="2017-05-06T20:48:31Z" finished-at="2017-05-06T20:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2017-05-06T20:48:34Z" finished-at="2017-05-06T20:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="enterSearchDetails(java.lang.String)[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="enterSearchDetails" duration-ms="588" started-at="2017-05-06T20:48:34Z" data-provider="SearchProvider" finished-at="2017-05-06T20:48:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Morgantown, WV]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSearchDetails -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-05-06T20:48:35Z" finished-at="2017-05-06T20:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="getSearchResultsCount()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="getSearchResultsCount" duration-ms="3983" started-at="2017-05-06T20:48:35Z" finished-at="2017-05-06T20:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSearchResultsCount -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:35Z" finished-at="2017-05-06T20:48:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getPagePrice()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="getPagePrice" duration-ms="3809" started-at="2017-05-06T20:48:39Z" finished-at="2017-05-06T20:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPagePrice -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:39Z" finished-at="2017-05-06T20:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:39Z" finished-at="2017-05-06T20:48:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:43Z" finished-at="2017-05-06T20:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:43Z" finished-at="2017-05-06T20:48:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyPriceDetails()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="verifyPriceDetails" duration-ms="3023" started-at="2017-05-06T20:48:43Z" finished-at="2017-05-06T20:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPriceDetails -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:46Z" finished-at="2017-05-06T20:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-05-06T20:48:46Z" finished-at="2017-05-06T20:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-05-06T20:48:46Z" finished-at="2017-05-06T20:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:VerifyPriceDetailsDriver.VerifyPrice@523884b2]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-05-06T20:48:46Z" finished-at="2017-05-06T20:48:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- VerifyPriceDetailsDriver.VerifyPrice -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
